@@ -1,0 +1,4 @@
+apple	1	Jan
+cherry	2	Mar
+banana	5	FEB
+apple	10	Jan
